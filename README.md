@@ -4,7 +4,7 @@
 
 1) open your terminal
 2) gedit /etc/pulse/daemon.conf
-3) copy this code below and paste at daemont.conf
+3) copy this code below and paste at daemon.conf
 
 #### You must have pulseaudio installed on your system before doing this.
 
