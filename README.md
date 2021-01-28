@@ -1,4 +1,4 @@
-## <p align="center"> Sound fix for xonar u3 on Ubuntu 19.10 [20.10 still working ]:sound:</p>
+## <p align="center"> Sound fix for xonar u3 on Ubuntu 19.10 [20.10 still working]:sound:</p>
 
 ### If you're having some problems with crackles on the audio output consider doing this method.
 
