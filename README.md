@@ -1,6 +1,6 @@
 ## <p align="center"> Sound fix for xonar u3 on Ubuntu 19.10 :sound:</p>
 
-### If you're having some problems with crackles on the audio output considere doing this method.
+### If you're having some problems with crackles on the audio output consider doing this method.
 
 1) open your terminal
 2) gedit /etc/pulse/daemon.conf
